@@ -1,0 +1,10 @@
+{
+  "name": "El kawera Ai state analyzer",
+  "description": "AI-powered voice voice⚽ Football match statistics generator and analyzer.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
